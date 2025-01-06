@@ -1,1 +1,1 @@
-# GitHub-profile-finder
+Creating a GitHub Profile Finder is a fun way to learn HTML, CSS, and JavaScript. This project will let you input a GitHub username and fetch their profile data using GitHub’s API. With this project, you’ll get comfortable with making API requests, handling responses, and displaying the data in a clean, modern layout.
